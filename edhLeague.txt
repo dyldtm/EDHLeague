@@ -1,0 +1,118 @@
+EDH League
+
+4 Months is a season, 2 games per month
+
+Rules as Written:
+- Rules do not change between seasons, unless obvious emergency
+- // RULES PROPOSALS for next season
+
+//BanLists: We'll keep the standard rules for season one, then talk about revising?
+House Banlist:
+- optional, would be fun to ban/unban our own cards. I resent the current rules committee
+- In general, I would prefer to incentivize play by +/- points as opposed to bannings
+
+House Un-Banlist:
+- Iona, Shield of Emeria?
+- Luke's Monkey?
+- optional, I don't really understand a large majority of the current bannings compared to current legal
+- silver border?
+- custom cards case by case approval?
+
+House Rules:
+- If you own a copy of the real card, you may play a proxy of it. New player exceptions?
+
+Pod Rules:
+- Pods must always attempt to be 3 or more people
+- If your pod is exactly five, you must play Star or Kingdom in order to increase speed?
+- If your pod would be 6 or larger, split into respective 3-4 sized pods
+- Within pod size rules, attempt to match with players least matched with
+
+Concession Rules
+- You cannot concede at instant speed
+- If you concede while another player controls one of your permanents, you lose a point
+- If you concede, you award each other player a point
+
+Setup Rules/Order 
+- Deck
+    - Blind Reveals
+- Achievements
+    - Green
+    - Black
+- Seating
+
+-- Static Rules --
+
+Seating order
+- Roll for seats, no take baksies, re-roll on ties
+
+Taking Another Player's turn
+- For the below rules, given you take control of another player's turn, you gain or lose points as if you were them.
+
+Losing Points
+- (-1) point whenever you cast a card that adds more mana than its cmc
+- (-X) point for executing an infinite combo with 3 cards or less, where (X/2 rounded down)
+    - what is an infinite combo?
+        - You CAN generate an infinite amount of mana/damage/life loss/draw/mill/infinite creatures/combat/life gain/Extra Turns
+- (-1) point for your turn taking longer then 7 minute cumulative minutes since another players turn (see extra turns)
+- (-X) point for eliminating a player on the following turns, where X is associated with the start of the game?
+    - 1: -5
+    - 2: -4
+    - 3: -3
+    - 4: -2
+    - 5: -1
+- (-X) where X is the amount of players left in the pod, and you cast a card that removes all lands from the battlefield, irrespective of typing
+
+Gaining Points
+- (+1) kill, or otherwise force another player to lose the game. Point is awarded to the last opponent who caused the player to lose (last player that is not you to have milled/drawn you a card, dealt you a damage, given you a poison)
+    - Cards that say "target player loses the game, does cause this to trigger". count as a kill
+    - Cards that cause you to win the game, do not cause kills
+    - If a player would prevent themselves from losing the game as a state based action, and another player prevents this, the second player is acreddited a kill. 
+        - This takes priority over the former rule.
+    - Unwilling Assistance
+        - Given a player takes a game action that is not given information to cause them to lose the game, and another player causes this loss, the player causing the loss gets the credit. (Tainted Strike)
+- (+X where X is pod size) for winning the game
+- (+1) Friend Point: each player starts with an a point to give away, and must do so only at the END of the game. Promises for points during game have no enforcement at the end.
+
+--
+
+Achievemnts
+This are additional mods you can apply only to yourself. They are optional.
+- You cannot pick an achievement you picked in your last league game
+- The player in a pod with the least amount of points picks first, in that order. Ties, roll
+
+Green Achievements (Quests)
+"Green achievements are randomly sorted into different binders ahead of time; each pod would receive a binder and from that binder choose their achievements and form a dynamic and unique set of of achievements for that given day. Green achievements that are not picked are moved further back in the binder behind numbered tabs, denoting that they are worth more points as they are picked less. Achievements that are picked remain towards the front of the binder, but are worth their base point value as stated on the card. This way, commonly picked achievements may be desirable for any given reason, but are typically worth much less than achievements that are harder to do or picked less."
+TLDR: the more a green achievement is picked at the start of the game, the less points it is worth. Other achievements accrue points when not picked
+- There is only ony of each green achievement available.
+
+(+1)
+- Red Shirt: Be eliminated.
+- Santa's Helper: At another player's request, force a permanent to leave the battlefield or remove a spell from the stack. This must be formally enforced for the attempt to be made. The attempt does not have to succeed.
+- Daddy's Helper: Cause another player to have more lands then they otherwise would
+- Mommy's Helper: Cause another player to draw a card
+- John Wick: Kill another player with commander damage //NOTE: Watch it punk
+- Smooth Brain: have no cards in your hand
+- Saviour Complex: [save one or more OTHER people] prevent another player from losing the game (remove lethal attackers, put cards back in their library, remove effect that contributes poison counters, gain them life beyond lethal, give them a blocker, etc)
+    - this must be SELFLESS: If you would die from this effect as well, you do not achieve this quest
+- Immunity: Don't take any damage
+- First Blood: Be the first player to deal damage
+- Poor: Control the least amount of permanents and have the least amount of cards in hand for a full turn cycle
+- Take the Shot: Eliminate a player that started the turn with 40 or more life
+- Pretentious: Do not attack a player this game
+
+Black Achievements
+
+(+1)
+- Defenseless: Creatures you control enter the battlefield tapped
+- Hemingway: You cannot play more than one spell a turn
+- Empty Head: You cannot search your library (and you do not have green in your deck identity)
+- MAGA: If you would draw more than one card per turn that card is exiled instead of putting it into your hand.
+- Slow Bro: Lands you control enter the battlefield tapped
+
+(+2)
+- If you would cast your commander from the command zone, it is countered
+- You cannot search your library and your deck contains green in its identity
+- Your spells and activated abilities cost 1 more to cast or activate
+
+Winnings
+- $40 card to cfg games
